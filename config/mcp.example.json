@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "uefi-mcp-eng-info": {
+      "command": "CAMINHO_ABSOLUTO/uefi-uefimcp-eng-info/.venv/Scripts/python.exe",
+      "args": [
+        "CAMINHO_ABSOLUTO/uefi-uefimcp-eng-info/run.py"
+      ]
+    }
+  }
+}
